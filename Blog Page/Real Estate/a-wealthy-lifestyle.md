@@ -25,7 +25,7 @@ Don't get me wrong, we know there is no magic beans that will take you to a cast
 
 Being able to live a healthy lifestyle is also being able to live a wealthy lifestyle, therefore, one key aspect of our journey is to build wealth, and the mobile we have chosen for it is Real Estate.
 
-Why did we choose Real Estate?
+### Why did we choose Real Estate?
 
 Real Estate, while it may be for some people, is not usually a way to get rich quickly. We definitely did not choose it for this reason. However, Real Estate offers several other advantages such as cash flow, tax deductions, appreciation, inflation hedge, the possibility to build equity, portfolio diversification, and leverage of different financing options, among others.
 
