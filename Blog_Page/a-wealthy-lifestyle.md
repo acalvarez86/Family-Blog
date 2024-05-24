@@ -10,7 +10,7 @@ taxonomy:
         - real-estate
     post_tag:
         - wealth
-        - realestate
+        - real estate
 
 ---
 
