@@ -3,7 +3,7 @@
 title: Our First House
 menu_order: 2
 post_status: publish
-post_excerpt: my first investment property
+post_excerpt: Our first investment property
 featured_image: _images/ourfirsthouse_front.webp
 taxonomy:
     category:
