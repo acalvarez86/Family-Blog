@@ -11,7 +11,8 @@ taxonomy:
     post_tag:
         - wealth
         - travel
-        - trips
+        - trip
+        - adventure
 custom_fields:
     field1: value 1
     field2: value 2
