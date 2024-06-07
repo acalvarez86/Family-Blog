@@ -4,7 +4,6 @@ title: A Wealthy Lifestyle
 menu_order: 1
 post_status: publish
 post_excerpt: What would you do if you didn't have to work your 9-5 job? If you had money or investments enough to cover your expenses without having to worry about buying groceries, a mortgage, or a car payment? For us, the answer is simple. We would like to spend more time with our family, doing all the things that inspire us and make us happy.
-featured_image: _images/post-image.jpg
 taxonomy:
     category:
         - real-estate
