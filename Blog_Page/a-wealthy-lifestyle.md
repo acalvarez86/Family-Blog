@@ -3,7 +3,7 @@
 title: A Wealthy Lifestyle
 menu_order: 1
 post_status: publish
-post_excerpt: What would you do if you didn't have to work your 9-5 job? If you had money or investments enough to cover your expenses without having to worry about buying groceries, a mortgage, or a car payment? For us, the answer is simple. We would like to spend more time with our family, doing all the things that inspire us and make us happy.
+post_excerpt: Being able to live a healthy lifestyle is also being able to live a wealthy lifestyle, therefore, one key aspect of our journey is to build wealth, and the mobile we have chosen for it is Real Estate.
 taxonomy:
     category:
         - real-estate
