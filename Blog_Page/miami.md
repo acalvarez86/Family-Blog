@@ -1,7 +1,7 @@
 ---
 
 title: Miami
-menu_order: 1
+menu_order: 5
 post_status: publish
 post_excerpt: A trip to Miami
 featured_image: _images/post-image.jpg

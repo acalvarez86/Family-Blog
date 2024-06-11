@@ -1,7 +1,7 @@
 ---
 
 title: Creativity versus Business
-menu_order: 1
+menu_order: 3
 post_status: publish
 post_excerpt: How many times have we heard the most popular Hollywood phrase “Is not personal, is just business”? In our times, we have seen the impact of different types of businesses like industries, factories, technology, and several others. We all can confirm the valuable outcomes and the improvements it has brought to our lives. Regardless of us being witnesses to all this progress, even the well-intentioned people, unconsciously sometimes, still try to mix the idea of business with something negative, something bureaucratic, robotic, or anti-human. 
 taxonomy:

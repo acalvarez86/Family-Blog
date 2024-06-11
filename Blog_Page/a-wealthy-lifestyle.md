@@ -15,11 +15,9 @@ taxonomy:
 
 ## A Wealthy Lifestyle
 
-What would you do if you didn't have to work your 9-5 job? If you had money or investments enough to cover your expenses without having to worry about buying groceries, a mortgage, or a car payment? For us, the answer is simple. We would like to spend more time with our family, doing all the things that inspire us and make us happy.
+What would you do if you didn't have to work your 9-5 job? If you had money or investments enough to cover your expenses without having to worry about buying groceries, a mortgage, or a car payment? For us, the answer is simple. We would like to spend more time with our family, doing all the things that inspire us and make us happy. Being able to live a healthy lifestyle is also being able to live a wealthy lifestyle, therefore, one key aspect of our journey is to build wealth, and the mobile we have chosen for it is Real Estate.
 
 Don't get me wrong, we know there is no magic beans that will take you to a castle in the clouds full of treasures, and we also know that money is no guarantee of wealth. Like many others before us, after reading Robert Kiyosaki’s book “Rich Dad, Poor Dad”, our mentality switched knowing that wealth is the amount of time you can live the lifestyle of your choice out of your savings, retirement account, and/or your passive income. Very important to note that rich and wealthy are not the same as "the rich have lots of money, but the wealthy doesn’t worry about money.”
-
-Being able to live a healthy lifestyle is also being able to live a wealthy lifestyle, therefore, one key aspect of our journey is to build wealth, and the mobile we have chosen for it is Real Estate.
 
 ### Why did we choose Real Estate?
 
