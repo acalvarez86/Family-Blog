@@ -1,6 +1,6 @@
 ---
 
-title: essential steps for life
+title: Essential steps for life
 menu_order: 4
 post_status: draft
 post_excerpt:  
