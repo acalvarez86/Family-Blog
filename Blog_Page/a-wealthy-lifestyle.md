@@ -17,7 +17,7 @@ What would you do if you didn't have to work your 9-5 job? If you had money or i
 
 Don't get me wrong, we know there are no magic beans that will take you to a castle in the clouds full of treasures, and we also know that money is no guarantee of wealth. Like many others before us, after reading Robert Kiyosaki’s book “Rich Dad, Poor Dad”, our mentality switched knowing that wealth is the amount of time you can live the lifestyle of your choice out of your savings, retirement account, and/or your passive income. Very important to note that rich and wealthy are not the same as "the rich have lots of money, but the wealthy doesn’t worry about money.”
 
-### Why did we choose Real Estate?
+### Why did we choose Real Estate for a wealthy lifestyle?
 
 Real Estate, while it may be for some people, is not usually a way to get rich quickly. We definitely did not choose it for this reason. However, Real Estate offers several other advantages such as cash flow, tax deductions, appreciation, inflation hedge, the possibility to build equity, portfolio diversification, and leverage of different financing options, among others.
 
