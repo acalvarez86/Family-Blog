@@ -1,6 +1,6 @@
 ---
 
-title: Miami
+title: A Trip to Miami
 menu_order: 5
 post_status: publish
 post_excerpt: A trip to Miami
@@ -18,7 +18,5 @@ custom_fields:
     field2: value 2
 
 ---
-
-## A trip to Miami
 
 Coming soon
