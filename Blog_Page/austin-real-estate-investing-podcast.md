@@ -15,9 +15,9 @@ taxonomy:
         - real-estate
 
 ---
-I recently had the honor to be a guest on the Austin Real Estate Investing podcast. It was my first time doing something like that and have to admit, it was an amazing experience. The host of the podcast is Jordan Moorhead, who is a realtor who also invests in Real Estate, both actively and passively mainly in the Austin, TX area. He is also a good friend.
+I recently had the honor to be a guest on the [Austin Real Estate Investing Podcast](https://podcasts.apple.com/us/podcast/arian-cabrera-alvarez-data-analyst-real-estate-investor/id1526289523?i=1000545207516). It was my first time doing something like that and have to admit, it was an amazing experience. The host of the podcast is Jordan Moorhead.  A realtor who also invests in Real Estate, both actively and passively mainly in the Austin, TX area. He is also a good friend.
 
-I’m very honored for the opportunity to share my experiences. As someone who is starting in the real estate investing world. And had to work his way up through the challenges of moving to the USA and starting from scratch on a different culture and language.
+As someone who is starting in the real estate investing world. And had to work his way up through the challenges of moving to the USA. And starting from scratch on a different culture and language. I’m very honored for the opportunity to share my experiences in the podcast.
 
 ### Topics we covered:
 
@@ -31,12 +31,14 @@ Some topics we touched on, for instance:
 
 * Why you should start investing right now and never give up.
 
-Ultimately, I sincerely hope that my interview helps as inspiration for all those who are still debating on starting on this path. To understand that even in a hot market there are some chances for everyone that is seriously looking and focused on their future.
+Ultimately, I sincerely hope that my interview helps as inspiration for all those who are still debating on starting on this path. Understand that even in a hot market there are some chances for everyone. One just need to seriously look and focus on the future.
 
-Lastly, I invite you to listen to the episode and to follow the [Austin Real Estate Investing Podcast](https://www.austinrealestateinvestingpodcast.com/) in your favorite streaming platform. You’ll find amazing guests, with lots of experience and knowledge, great advice, and tons of new ideas for your next project.
+Lastly, I invite you to listen to the episode and to follow the [Austin Real Estate Investing Podcast](https://www.austinrealestateinvestingpodcast.com/) on your favorite streaming platform. You’ll find amazing guests, with lots of experience and knowledge. There are tons of great advice, and new ideas for your next project.
 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/arian-cabrera-alvarez-data-analyst-real-estate-investor/id1526289523?i=1000545207516"></iframe>
 
-Remember as most investors say: “The best time to invest was yesterday, the second-best time is today, and the worst time is tomorrow”.
+Remember as most investors say: 
+
+“The best time to invest was yesterday, the second-best time is today, and the worst time is tomorrow”.
 
 
