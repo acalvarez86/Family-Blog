@@ -37,6 +37,6 @@ Lastly, I invite you to listen to the episode and to follow the podcast. You’l
 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/arian-cabrera-alvarez-data-analyst-real-estate-investor/id1526289523?i=1000545207516"></iframe>
 
-Remember as most investors say: “The best time to invest was yesterday, the second best time is today, and the worst time is tomorrow”.
+Remember as most investors say: “The best time to invest was yesterday, the second-best time is today, and the worst time is tomorrow”.
 
 
