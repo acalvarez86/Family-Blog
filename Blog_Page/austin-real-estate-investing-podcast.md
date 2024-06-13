@@ -22,15 +22,15 @@ I’m very honored for the opportunity to share my experiences. As someone who i
 ### Topics we covered:
 We had a great conversation about my Real Estate investment experience. Answered several questions that Jordan was curious to know about myself, including my favorite place to eat in Austin, Texas. Go check the podcast if you are curious!
 
-Some topics we touched:
+Some topics we touched, for instance:
 
 * Whom I inherited the love for real estate from.
 * How even in a hot market, there is always an opportunity to find great deals.
 * Why you should start investing right now and never give up.
 
-I sincerely hope that my interview helps as inspiration for all those who are still debating on starting in this path. To understand that even in a hot market there are some chances for everyone that are seriously looking and focused on their future.
+Ultimately, I sincerely hope that my interview helps as inspiration for all those who are still debating on starting in this path. To understand that even in a hot market there are some chances for everyone that are seriously looking and focused on their future.
 
-I now invite you to listen to the episode and to follow the podcast. You’ll find amazing guests, with lots of experience and knowledge, great advice, and tons of new ideas for  your next project.
+Lastly, I invite you to listen to the episode and to follow the podcast. You’ll find amazing guests, with lots of experience and knowledge, great advice, and tons of new ideas for your next project.
 https://podcasts.apple.com/us/podcast/arian-cabrera-alvarez-data-analyst-real-estate-investor/id1526289523?i=1000545207516
 
 Remember as most investors say: “the best time to invest was yesterday, the second best time is today, and the worst time is tomorrow.”
