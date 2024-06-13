@@ -33,7 +33,7 @@ Some topics we touched on, for instance:
 
 Ultimately, I sincerely hope that my interview helps as inspiration for all those who are still debating on starting on this path. To understand that even in a hot market there are some chances for everyone that is seriously looking and focused on their future.
 
-Lastly, I invite you to listen to the episode and to follow the podcast. You’ll find amazing guests, with lots of experience and knowledge, great advice, and tons of new ideas for your next project.
+Lastly, I invite you to listen to the episode and to follow the [Austin Real Estate Investing Podcast](https://www.austinrealestateinvestingpodcast.com/) in your favorite streaming platform. You’ll find amazing guests, with lots of experience and knowledge, great advice, and tons of new ideas for your next project.
 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/arian-cabrera-alvarez-data-analyst-real-estate-investor/id1526289523?i=1000545207516"></iframe>
 
