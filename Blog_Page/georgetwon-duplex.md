@@ -2,7 +2,7 @@
 
 title: Georgetown Duplex
 menu_order: 7
-post_status: publish
+post_status: draft
 post_excerpt:  
 taxonomy:
     category:
