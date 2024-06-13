@@ -1,6 +1,6 @@
 ---
 
-title: Essential Steps for Life
+title: Austin Real Estate Investing Podcast Interview
 menu_order: 6
 post_status: draft
 post_excerpt:  
