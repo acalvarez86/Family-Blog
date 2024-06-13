@@ -29,6 +29,7 @@ Real Estate, for some reason, feels right to us. Learning, reading, and listenin
 
 At least for one of us, the love for Real Estate is on the blood. Arian owes this to his grandfather. By the age of 10, he had already lived in more than seven houses. His grandpa was a house flipper in Cuba, buying, fixing, and selling even though he was in his 70s. Real Estate laws and conditions in Cuba, like almost everything else, are completely different from the USA. Therefore we are eagerly learning everything we can to,soon, be experts in the field.
 
-We bought our first house more than 6 years ago. And proudly noticed how we made a great team during the whole process. Now, we want to continue investing in Real Estate focusing on rental properties.
+### As of now 
 
+We bought our first house more than 6 years ago. And proudly noticed how we made a great team during the whole process. Now, we want to continue investing in Real Estate focusing on rental properties. 
 By the time I wrote this article, we had recently closed on a duplex. It gave us two doors in one transaction. Our Current Real Estate Goal is to have at least 1 more rental property (doors) in our portfolio per year.
