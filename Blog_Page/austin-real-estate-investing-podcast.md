@@ -35,7 +35,10 @@ Ultimately, I sincerely hope that my interview helps as inspiration for all thos
 
 Lastly, I invite you to listen to the episode and to follow the podcast. You’ll find amazing guests, with lots of experience and knowledge, great advice, and tons of new ideas for your next project.
 
-<iframe src="https://embed.podcasts.apple.com/us/podcast/arian-cabrera-alvarez-data-analyst-real-estate-investor/id1526289523?i=1000545207516" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" height="175" frameborder="0"></iframe>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%">
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/arian-cabrera-alvarez-data-analyst-real-estate-investor/id1526289523?i=1000545207516">
+</iframe>
+</div>
 
 Remember as most investors say: “The best time to invest was yesterday, the second best time is today, and the worst time is tomorrow”.
 
