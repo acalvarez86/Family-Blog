@@ -15,14 +15,14 @@ taxonomy:
         - real-estate
 
 ---
-I recently had the honor to be a guest in the [Austin Real Estate Investing](https://podcasts.apple.com/us/podcast/austin-real-estate-investing/id1526289523) podcast. It was my first time doing something like that and have to admit, it was an amazing experience.  
-
-The host of the podcast is Jordan Moorhead, who is a realtor that also invests in Real Estate, both actively and passively mainly in the Austin, TX area. He is also a good friend. 
+I recently had the honor to be a guest in the [Austin Real Estate Investing](https://podcasts.apple.com/us/podcast/austin-real-estate-investing/id1526289523) podcast. It was my first time doing something like that and have to admit, it was an amazing experience. The host of the podcast is Jordan Moorhead, who is a realtor that also invests in Real Estate, both actively and passively mainly in the Austin, TX area. He is also a good friend. 
 
 I’m very honored for the opportunity to share my experiences. As someone who is starting in the real estate investing world. And had to work his way up through the challenges of moving to the USA and starting from scratch on a different culture and language. 
 
 ### Topics we covered:
-We had a great conversation about my Real Estate investment experience. Answered several questions that Jordan was curious to know about myself, including my favorite place to eat in Austin, Texas. Go check the podcast if you are curious. In general, we went over the following:
+We had a great conversation about my Real Estate investment experience. Answered several questions that Jordan was curious to know about myself, including my favorite place to eat in Austin, Texas. Go check the podcast if you are curious!
+
+Some topics we touched:
 
 * Whom I inherited the love for real estate from.
 * How even in a hot market, there is always an opportunity to find great deals.
