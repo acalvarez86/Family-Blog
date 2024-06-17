@@ -3,7 +3,7 @@
 title: 7 Essential Steps for Newcomers
 menu_order: 4
 post_status: publish
-post_excerpt:  
+post_excerpt:  In life, many changes will come, and your decisions will shape your future. Every step you make will bring happiness or will upset you, but every one of them will bring learning. As newcomers to a different place (country, state, environment), it is important to know these 7 essential steps.
 taxonomy:
     category:
         - thoughts
