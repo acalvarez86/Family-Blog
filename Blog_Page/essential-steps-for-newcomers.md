@@ -8,10 +8,17 @@ taxonomy:
     category:
         - thoughts
     post_tag:
-        - wealth
-        - creativity
-        - business
+        - budget
         - thoughts
+        - inmigrants
+        - newcomers
+        - finances
+        - insurance
+        - credit
+        - language
+        - development
+        - taxes
+        - community
 
 ---
 
