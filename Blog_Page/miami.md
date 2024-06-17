@@ -24,8 +24,6 @@ Miami doesn’t need a presentation. It is well known for its warm weather, awes
 
 We stayed at the Fashion Boutique Hotel located in South Miami Beach. It is a small and cozy place, with free breakfast and close to the beach, restaurants, a shopping center, and the Ocean Drive. Parking was a bit expensive, which seems like a norm in the area, so if you are planning to visit the area, read the reviews and budget accordingly. 
 
-Hotel photo here
-
 There is a small cafeteria named Las Olas Café, right around the corner, that serves an awesome Cuban coffee. It is a great place to stop by before a walk to the beach or just to energize yourself during the day. We would go more than once a day and Melba would usually get a cortadito while Arian would order an espresso. 
 
 The quality of the beach was our biggest surprise. Not sure about you, but we have always heard people saying that the beach is not clean, that the sand is dark and that it doesn’t compare to the beaches in Cuba. South Pointe Beach is a great place. Crystal clear water and soft sand. Truth be told, it doesn’t have the quality of the beaches in the North part of Cuba, but it’s not too far behind. 
@@ -38,10 +36,6 @@ Another “must do” in any trip to Miami is taking a drive for the approximate
 
 There are several attractions on the Islands. Sites like TripAdvisor and Groupon offer discounts for all kind of tours and activities. Our advice, prepare your itinerary in advance and book the activities that you see most interesting, always leaving some space for exploring the cute coastal towns.
 
-Poner fotos con breve descripción. 
-
 There is so much to do in Miami that you’ll hardly get bored. If you like fashion, don’t forget to check the Design District for great food, well known brands, luxury shopping, and art. 
-
-Foto here
 
 If you are curious about Cuban culture, go walk the streets of little Havana, get a bite at one of the restaurants or specialty food shops that line the streets while the Latin music fills the air. Other great places to visit are the Art Deco Historic District, the Vizcaya Museum and Gardens, and the Everglades National Park. It’s not called the Sunshine State in vain. 
