@@ -2,7 +2,7 @@
 
 title: A Trip to Miami
 menu_order: 5
-post_status: draft
+post_status: publish
 post_excerpt: After months without a vacation and a last-minute canceled trip to Tampa that was supposed to be a romantic get away, we were ready to go anywhere. We considered Denver for a while, then Tennessee, and finally, we settled for Miami.
 post_date: 2022-02-25 20:14:59
 taxonomy:
