@@ -3,7 +3,7 @@
 title: Georgetown Duplex
 menu_order: 4
 post_status: publish
-post_excerpt: The second property we bought was a duplex. We had decided to get into the real estate world and, after considering our options, we both agreed on the best strategy we should pursue.
+post_excerpt: The second property we bought was this Georgetown duplex. We had decided to get into the real estate world and, after considering our options, we both agreed on the best strategy we should pursue.
 post_date: 2022-01-12 20:14:59 
 taxonomy:
     category:
@@ -18,7 +18,7 @@ taxonomy:
 
 ---
 
-The second property we bought was a duplex. We had decided to get into the real estate world and, after considering our options, we both agreed on the best strategy we should pursue.
+The second property we bought was this Georgetown duplex. We had decided to get into the real estate world and, after considering our options, we both agreed on the best strategy we should pursue.
 
 We decided to turn the single-family home where we were living at the time into a long-term rental. Check the details [here](https://familyventurescafe.com/real-estate/our-first-house/). We bought this duplex intending to move to one side, rent the other one, and live rent-free. This was our very first incursion into buying an investment property. With that purpose in mind, we were convinced that buying a good deal and holding onto it using the house-hacking strategy was the best way to grow our portfolio.
 
@@ -32,7 +32,7 @@ Buying a duplex allowed us to “house hack” without having to share our home 
 
 House hacking is one of the most popular strategies for first-time real estate investors and is a strategy we are currently using.
 
-House hacking consists of purchasing any residential property, using one unit or room to live in, and renting out the other units or rooms. If purchasing a great multifamily deal, the rent that your tenants pay each month can cover all the expenses for the property and maybe more. The same can be accomplished on a single-family home by having roommates. It all depends on your personal situation and what you feel comfortable with.
+House hacking consists of purchasing any residential property, using one unit or room to live in, and renting out the other units or rooms. If purchasing a great multifamily deal, the rent that your tenants pay each month can cover all the expenses for the property and maybe more. The same can be accomplished in a single-family home by having roommates. It all depends on your situation and what you feel comfortable with.
 
 ### The Duplex
 
@@ -42,7 +42,7 @@ The first lesson learned (the hard way) is that you need a HUD inspector. Findin
 
 <img class="alignleft wp-image-284" src="https://familyventurescafe.com/wp-content/uploads/2022/01/georgetown_duplex_kitchen-300x200.webp" alt="georgetown duplex kitchen" width="500" height="333" />
 
-We learned several other things during the whole process. One important lesson is to be ready for sewer line breakouts after foundation repair. Budget for that in advance. After repairing this duplex’s foundation we had 3 sewer lines breakout. Which was close to $3000 in repairs. Another important thing we learned is that if you plan to do some repairs yourself because you are good at that type of work, please budget and plan in advance for the time it will take you. Sometimes you can save more by just paying someone to do the job and having the house ready earlier. This was one of the reasons our rehab took longer than expected.
+We learned several other things during the whole process. One important lesson is to be ready for sewer line breakouts after foundation repair. Budget for that in advance. After repairing this duplex’s foundation we had 3 sewer lines breakout. Which was close to $3000 in repairs. Another important thing we learned is that if you plan to do some repairs yourself because you are good at that type of work, please budget and plan for the time it will take you. Sometimes you can save more by just paying someone to do the job and having the house ready earlier. This was one of the reasons our rehab took longer than expected.
 
 ### Financing
 
