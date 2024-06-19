@@ -3,7 +3,7 @@
 title: A Trip to Miami
 menu_order: 5
 post_status: draft
-post_excerpt: After months without a vacation and a last-minute canceled trip to a Tampa that was supposed to be a romantic get away, we were ready to go anywhere. We considered Denver for a while, then Tennessee, and finally, we settled for Miami.
+post_excerpt: After months without a vacation and a last-minute canceled trip to Tampa that was supposed to be a romantic get away, we were ready to go anywhere. We considered Denver for a while, then Tennessee, and finally, we settled for Miami.
 post_date: 2022-02-25 20:14:59
 taxonomy:
     category:
@@ -21,11 +21,12 @@ taxonomy:
 
 ---
 
-After months without a vacation and a last-minute canceled trip to a Tampa that was supposed to be a romantic get away, we were ready to go anywhere. We considered Denver for a while, then Tennessee, and finally, we settled for Miami.
+After months without a vacation and a last-minute canceled trip to Tampa that was supposed to be a romantic get away, we were ready to go anywhere. We considered Denver for a while, then Tennessee, and finally, we settled for Miami.
 
 Miami doesn’t need a presentation. It is well known for its warm weather, awesome cuisine, great beaches, national parks, and Cuban coffee. It has the largest Cuban community in the country. To us, it is a constant reminder of our home country. And how it could have looked like if the Castro Revolution hadn’t happened in 1959.
 
 ### Stay
+<img class=" wp-image-255 alignleft" src="https://familyventurescafe.com/wp-content/uploads/2024/06/miami_hotel-200x300.webp" alt="miami" width="219" height="329" />
 
 We stayed at the Fashion Boutique Hotel located in South Miami Beach. It is a small and cozy place, with free breakfast and close to the beach, restaurants, a shopping center, and the Ocean Drive. Parking was a bit expensive, which seems like a norm in the area, so if you are planning to visit the area, read the reviews and budget accordingly. 
 
