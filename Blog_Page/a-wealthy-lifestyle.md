@@ -4,6 +4,7 @@ title: A Wealthy Lifestyle
 menu_order: 1
 post_status: publish
 post_excerpt: Being able to live a healthy lifestyle is also being able to live a wealthy lifestyle, therefore, one key aspect of our journey is to build wealth, and the mobile we have chosen for it is Real Estate.
+post_date: 2021-09-01 20:14:59
 taxonomy:
     category:
         - real-estate

@@ -1,9 +1,10 @@
 ---
 
 title: Austin Real Estate Investing Podcast Interview
-menu_order: 6
+menu_order: 3
 post_status: publish
 post_excerpt: I recently had the honor to be a guest in the Austin Real Estate Investing Podcast. It was my first time doing something like that and have to admit, it was an amazing experience.
+post_date: 2021-12-20 20:14:59
 taxonomy:
     category:
         - real-estate

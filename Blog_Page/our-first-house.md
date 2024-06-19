@@ -4,6 +4,7 @@ title: Our First House
 menu_order: 2
 post_status: publish
 post_excerpt: We bought our first house after living in the United States for four years. It was a dream come true. As a young couple who had immigrated from a culture very different from the one in our original country, our primary goal was to secure good jobs that would allow us to own a house where we could raise our kids.
+post_date: 2021-11-12 20:14:59
 taxonomy:
     category:
         - real-estate

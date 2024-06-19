@@ -1,9 +1,10 @@
 ---
 
 title: Georgetown Duplex
-menu_order: 7
-post_status: draft
-post_excerpt:  
+menu_order: 4
+post_status: publish
+post_excerpt: The second property we bought was a duplex. We had decided to get into the real estate world and, after considering our options, we both agreed on the best strategy we should pursue.
+post_date: 2022-01-12 20:14:59 
 taxonomy:
     category:
         - real-estate
