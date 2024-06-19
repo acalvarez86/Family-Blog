@@ -18,6 +18,7 @@ taxonomy:
         - miamibeach
         - keywest
         - miami bayside
+        - designdistric
 
 ---
 
@@ -52,4 +53,5 @@ There are several attractions on the Islands. Sites like TripAdvisor and Groupon
 
 There is so much to do in Miami that you’ll hardly get bored. If you like fashion, don’t forget to check the Design District for great food, well-known brands, luxury shopping, and art. 
 
-If you are curious about Cuban culture, go walk the streets of little Havana. Get a bite at one of the restaurants or specialty food shops that line the streets while the Latin music fills the air. Other great places to visit are the Art Deco Historic District, the Vizcaya Museum and Gardens, and the Everglades National Park. It’s not called the Sunshine State in vain. 
+If you are curious about Cuban culture, go walk the streets of little Havana. Get a bite at one of the restaurants or specialty food shops that line the streets while the Latin music fills the air. Other great places to visit are the Art Deco Historic District, the Vizcaya Museum and Gardens, and the Everglades National Park. It’s not called the Sunshine State in vain.
+ 
