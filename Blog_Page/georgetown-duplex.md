@@ -40,11 +40,15 @@ Initially, we tried to use an FHA 203K loan since the house needed a lot of repa
 
 The first lesson learned (the hard way) is that you need a HUD inspector. Finding one can be a nightmare depending on the city where the house is located. There are only a few inspectors licensed with HUD in our area. We ended up with almost no options and paying a high fee for one of the few available ones. To their regular pricing, usually higher than regular inspectors, you need to add an extra charge for the report the bank requires to process the 203K loan. Our mistake was that we paid for a regular inspector and later paid again for the HUD inspection. Do your due diligence in advance if this type of loan is within your scope. Have the initial inspection done by the HUD inspector. You will be able to save a few bucks.
 
+<img class="alignleft wp-image-284" src="https://familyventurescafe.com/wp-content/uploads/2022/01/georgetown_duplex_kitchen-300x200.webp" alt="georgetown duplex kitchen" width="500" height="333" />
+
 We learned several other things during the whole process. One important lesson is to be ready for sewer line breakouts after foundation repair. Budget for that in advance. After repairing this duplex’s foundation we had 3 sewer lines breakout. Which was close to $3000 in repairs. Another important thing we learned is that if you plan to do some repairs yourself because you are good at that type of work, please budget and plan in advance for the time it will take you. Sometimes you can save more by just paying someone to do the job and having the house ready earlier. This was one of the reasons our rehab took longer than expected.
 
 ### Financing
 
 In the end, we could not buy this duplex using an FHA 203K loan because the house did not appraise for the necessary amount to be able to do a 203K without putting more money out of pocket. 
+
+<img class="alignright wp-image-286" src="https://familyventurescafe.com/wp-content/uploads/2022/01/georgetown_duplex_bath-300x200.webp" alt="georgetown duplex bathroom" width="500" height="333" />
 
 Therefore, we decided to finance the purchase using a standard FHA. In the end, this worked in our favor as we were able to save some money for the repairs. We used credit cards with a very low to 0% interest rate, using some incentives and promotions. We also used our own money on most of the repairs, and a small private lender’s money with whom we worked a 10% interest rate. This way we saved some money on interest compared with the interest we would have had to pay if we used an FHA 203K. 
 
