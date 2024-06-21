@@ -58,9 +58,9 @@ For example in the Year 2022 from August to December:
 * **Vrbo:** $2,984.68
 
 **Total earnings:** $14,673
-**Average monthly earnings:** $2,934
+**Monthly earnings:** $2,934
 **Average Monthly Cleaning paid:** $475
-**Average Monthly Utilities and Maintenance:** $350
+**Monthly Utilities and Maintenance:** $350
 **Total average monthly profit:** $2,109
 
 You can check our post [Georgetown Duplex](https://familyventurescafe.com/real-estate/georgetown-duplex) to get an idea of our mortgage payment.
