@@ -44,7 +44,8 @@ Another important part was setting up the listing online. Making sure to add all
 
 ### The Listing was Live
 
-You can check [our listing](airbnb.com/h/friendsandpoppies) by yourselves. Let us know if we did a good job. Airbnb gave us some promotions for being first time hosts, which technically give the guests a discount. Yeah, for our first bookings we agreed to get less than normally to be able to get guests as quickly as possible and start getting reviews. Reviews help to improve your listing by fixing any problem using customers feedback. In addition, it helps to get your listing on the top of the searches, as it is a prerequisite to be a [superhost](https://www.airbnb.com/help/article/829).
+You can check [our listing](https://:wq
+airbnb.com/h/friendsandpoppies) by yourselves. Let us know if we did a good job. Airbnb gave us some promotions for being first time hosts, which technically give the guests a discount. Yeah, for our first bookings we agreed to get less than normally to be able to get guests as quickly as possible and start getting reviews. Reviews help to improve your listing by fixing any problem using customers feedback. In addition, it helps to get your listing on the top of the searches, as it is a prerequisite to be a [superhost](https://www.airbnb.com/help/article/829).
 
 We got our first guest quicker than we expected and everything was smooth, the guest provided good feedback and left great reviews. The cleaning was done by us at the beginning, we wanted to learn what it takes to clean the house, so we could create a checklist.
 
