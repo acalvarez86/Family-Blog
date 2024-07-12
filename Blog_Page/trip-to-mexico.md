@@ -57,9 +57,11 @@ Before going to bed to rest for our first excursion we planned our itinerary. We
 
 ### Xcaret
 
-This trip started early in the morning we barely had time for a coffee. The bus was on time, and we head to the park. The trip takes about and hour or so and there could be line of buses arriving at the same time. Listen to the guide's instructions as it helps for a smooth adventure. There are several attractions that you have to pay for, apart from the excursion package. We paid for swimming with the Dolphins as Melba hadn't done it before. It is a spectacular experience. Unfortunately do to weather issues we couldn't swim with the whale sharks or walk with the Stingrays. Yeah, so sad, we would have paid for it if it were opened. The last attraction for the night is an amazing show with lots of great music scenery and acrobatics. We decided to get the dinner package, where they serve you several typical plates and drinks while watching the magical show about Mexico history. 
+This trip started early in the morning we barely had time for a coffee. The bus was on time, and we head to the park. The trip takes about and hour or so and there could be line of buses arriving at the same time. Listen to the guide's instructions as it helps for a smooth adventure. There are several attractions that you have to pay for, apart from the excursion package. We paid for swimming with the Dolphins as Melba hadn't done it before. It is a spectacular experience. Unfortunately, due to weather issues we couldn't swim with the whale sharks or walk with the Stingrays. Yeah, so sad, we would have loved it. The last attraction for the night is an amazing show with lots of great music scenery and acrobatics. We decided to get the dinner package, where they serve you several typical plates and drinks while watching the magical show about Mexico history. We highly recommend you stay until last minute of the show, it is Spectacular!
 
 ### Playa Mujeres
+
+It was great to have some time after the exhausting day at Xcaret. This trip didn't include transportation, so we took public transportation. It is safe, and the bus driver are very friendly with tourists. We head the marina, but first we took the change to visit the pharmacy right in front of the marina. The medicine there is cheaper for us tourist, so we bought several to bring back home. From ivermectin to pain relief ones for our grandparents, and a cream for chafing burn that worked like magic.  
 
 ### Xixen Itza
 
