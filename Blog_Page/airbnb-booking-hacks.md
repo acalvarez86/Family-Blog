@@ -7,7 +7,7 @@ post_excerpt: We are constantly on the lookout for the best Airbnb hacks to secu
 post_date: 2024-07-13 20:14:58
 taxonomy:
     category:
-        - travel
+        - thoughts
     post_tag:
         - vacation
         - money
