@@ -61,9 +61,19 @@ This trip started early in the morning we barely had time for a coffee. The bus 
 
 ### Playa Mujeres
 
-It was great to have some time after the exhausting day at Xcaret. This trip didn't include transportation, so we took public transportation. It is safe, and the bus driver are very friendly with tourists. We head the marina, but first we took the change to visit the pharmacy right in front of the marina. The medicine there is cheaper for us tourist, so we bought several to bring back home. From ivermectin to pain relief ones for our grandparents, and a cream for chafing burn that worked like magic.  
+It was great to have some time after the exhausting day at Xcaret. This trip didn't include transportation, so we took public transportation. It is safe, and the bus drivers are very friendly with tourists. We head the marina, but first we took the change to visit the pharmacy right in front of the marina. The medicine there is cheaper for us tourist, so we bought several to bring back home. From ivermectin to pain relief ones for our grandparents, and a cream for chafing burn that worked like magic. We had to wait by the beach for the boat to be ready, so it was pleasant. This marina was close to a clothing optional resort so keep that in mind if you are traveling with kids. In general this trip was the worst, the best part of the trip were they take you snorkeling was rushed and had barely time to enjoy it. The lunch was awful. The buffet had little options and food didn't taste great. Luckily we bought mangoes at the Isla Mujeres beach, another rushed stop. After lunch, we went to go around the island in golf cart, again another rushed stop, so we didn't have much time to enjoy. We were back to the lunch area by the beach, which was not a good one to take a splash, so we chilled at the beds until the boat arrived. We get to the hotel went to the jacuzzi and back to bed for the next day. 
 
-### Xixen Itza
+### Chichen Itza, Cenotes and Valladolid tour
+
+Similar to Xcaret this trip started early in the morning. It takes 2 hrs and a half maybe more to get there, so be ready to either sleep on the bus, or listen to the guide. Our guide was Mayan descent and shared some history during the trip. Thi strip included the visit to Chichen Itza, the Xcajum Cenote and the Colombian inspired city of Valladolid, in Mexico. Unfortunately for us we had to visit the Cenote first. The best is to visit the cenote after Chichen Itza to refresh in the cold and fresh waters of the cenote. 
+
+#### Xenote Xcajum
+
+#### Chichen Itza 
+
+#### Valladolid
+
+
 
 ### Xoximilco
 
