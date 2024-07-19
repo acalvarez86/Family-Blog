@@ -65,14 +65,21 @@ It was great to have some time after the exhausting day at Xcaret. This trip did
 
 ### Chichen Itza, Cenotes and Valladolid tour
 
-Similar to Xcaret this trip started early in the morning. It takes 2 hrs and a half maybe more to get there, so be ready to either sleep on the bus, or listen to the guide. Our guide was Mayan descent and shared some history during the trip. Thi strip included the visit to Chichen Itza, the Xcajum Cenote and the Colombian inspired city of Valladolid, in Mexico. Unfortunately for us we had to visit the Cenote first. The best is to visit the cenote after Chichen Itza to refresh in the cold and fresh waters of the cenote. 
+Similar to Xcaret this trip started early in the morning. It takes 2 hrs and a half maybe more to get there. Be ready to either sleep on the bus, or listen to the guide. Our guide was Mayan descendant and shared some interesting history bits during the trip. This trip included the visit to Chichen Itza, the Xcajum Cenote and the Colombian inspired city of Valladolid, in Mexico. Unfortunately for us, we had to visit the Cenote first. The best is to visit the cenote after Chichen Itza to refresh in the cold and fresh waters of the cenote. 
 
-#### Xenote Xcajum
+#### Cenote Xcajum
+
+What an interesting place! Seems like and Oasis in the middle of nothing. Everything was pretty well organized. You can tell it is managed by locals, no big corporations vibes here, at all. Since we knew the language, we conversed with staff and asked about the things they do. It is devastating to hear how happy they were that international travel was reopened after 2 years with no tourism. The area is 80% dependent on it. Therefore, they appreciate the opportunity, and they are the kindest hosts you could meet. People can take advantage of this, so please be mindful and return the kindness. 
+
+The cenote is beautiful, and the water seems like could do miracles. Regardless, we decided to not get in the Cenote as getting wet may make it harder for Chichen Itza. Instead, we tour around checked the local souvenirs and bought some for sure. Including a silver necklace with our initials in Mayan language for Melba, made by local jewelers. If you can buy some, this is one of the main source of income of these artisans. We had our lunch in a cozy restaurant. Since most excursions go to Chichen first we were the first at the buffet and the options were great. Good tasty local food. After food, we were ready for the main plate Chichen.
 
 #### Chichen Itza 
 
+For Chichen we were given a water bottle with a strap to keep with you as the heat there could be intense. Since the area doesn't have many trees for everyone to be able to enjoy the view of the famous Mayan Pyramid. The landscape there is unreal. It is overwhelming, like receiving a shot of reality on your veins. When you see documentaries about these monuments, you cannot grasp the marvelous all this is. Once you are there, and the guide explains some history. Once, you confirm what the documentaries talked about, it is a mix of emotions. I cannot describe with words. So I encourage to watch some documentaries beforehand, and you will be blown away once you get there. The time is not enough, I would spend the whole day there in awe, impressed by the greatness of mankind's ancestors. 
+
 #### Valladolid
 
+It was time to leave and the next stop is this magic town. A piece of Colombia in the heart of Yucatan. Looks like out of "The Encanto movie". This was a quick stop for some sightseeing. Taste the famous "marquesitas" and enjoy the peculiar Colombian architecture, with some tips from the tour guide. While in line for the marquesitas, there were two little kids playing with a funny small dog which they named Bruno for the Encanto movie character. We gifted them the water bottles and they were so happy. Finally the turn to get back to the hotel, during the 2 hours back we fell asleep as we got there around 10 PM.
 
 
 ### Xoximilco
