@@ -4,7 +4,7 @@ title: Our First Mid Term Rental
 menu_order: 9
 post_status: publish
 post_excerpt:  We were playing with the idea to list one of our houses on Airbnb, to increase our profits. However, we never expect what was going to happen. Be careful with what you wish for, the world can surprise you. 
-post_date: 2024-06-19 20:14:59
+post_date: 2024-07-21 20:14:59
 taxonomy:
     category:
         - real-estate
@@ -17,7 +17,9 @@ taxonomy:
         - airbnb
         - shorttermrentals
         - midtermrentals
-        - 
+        - furnishedfinder
+        - travelingnurse
+        - corporatehousing
 
 ---
 
@@ -42,6 +44,8 @@ Listing the property is not complex. At this point, we had most of the essential
 5. **Maintain Your Property:** Ensure your property is well-maintained and meets all safety standards. Regular cleaning and prompt maintenance are crucial for attracting and retaining tenants.
 
 Last point is essential. If you do not have a cleaning team and/or you are thinking of taking care of turning over the property by yourself, make sure everything is spot clean and ready for the next tenant.
+
+[This](https://www.furnishedfinder.com/property/460137_1) is how our property looks like in Furnished finder using the same pictures we used for our Airbnb.
 
 ### How we Calculate the Rate
 
