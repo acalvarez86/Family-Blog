@@ -38,7 +38,7 @@ To effectively manage our Airbnb listing, we relied on the following tools, whic
 
 By using these tools in tandem, we create a cohesive management system. Hospitable centralizes guest communications and automates tasks. It easily integrates Pricelabs that ensures our pricing remains optimal across all platforms. Hospitable also connects all the different hosting sites we use. Airbnb and Vrbo serve as the primary channels for attracting guests, and their integration with Hospitable and Pricelabs ensures smooth operations and consistent guest experiences.
 
-## Cleaning and Maintenance
+### Cleaning and Maintenance
 
 The cleaning team is the most important part of your listing. They will make the difference between having lots of headaches with your listing or not. Your cleaning team is the one that will interact with your house the most. They will know every part of it. They should let you know if something is broken or missing. However, the most important role they play is ensuring the house is spotlessly clean for your guests' enjoyment.
 
@@ -46,7 +46,7 @@ Therefore, make sure to find good cleaners and set your expectations beforehand.
 
 For maintenance, you need a good lawn care service to keep good curb appeal. It's also super important to have the phone number of a great handyman. You never know what might break that may need urgent repair. It's crucial to guarantee your guests' satisfaction.
 
-## Keeping the Superhost Status
+### Keeping the Superhost Status
 
 Achieving and maintaining Superhost status requires a commitment to guest satisfaction. This involves ensuring our guests are comfortable and that our house is clean and meets their expectations. Regular communication, attention to detail, and responsiveness to guest feedback are key.
 
