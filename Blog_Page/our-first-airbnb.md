@@ -19,6 +19,8 @@ taxonomy:
         - rentals
         - vacation
         - duplex
+        - shorttermrentals
+        - bedandbreakfast
 
 ---
 
@@ -36,7 +38,7 @@ I was already checking the ins and outs of Airbnb and how much money it could ma
 
 Furnishing and decorating the house was a bit difficult since it was our first time doing something like that. However, we had a great time being creative and trying to make the house as cozy and inviting as possible. We had to assemble furniture ourselves, so we became a great team of assemblers.
 
-Another important part was setting up the listing online. Making sure to add all the needed automation to be able to provide a great experience for our guests. While making things easier on ourselves.
+Another important part was [setting up the listing online](https://familyventurescafe.com/real-estate/setting-up-our-first-airbnb). Making sure to add all the needed automation to be able to provide a great experience for our guests. While making things easier on ourselves.
 
 *We will be adding a post soon where we will go over the different processes and steps we took to set things up.*
 
