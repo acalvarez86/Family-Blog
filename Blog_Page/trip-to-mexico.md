@@ -4,7 +4,7 @@ title: A Trip to Cancun, Mexico
 menu_order: 5
 post_status: publish
 post_excerpt: Our next vacation to Mexico.
-post_date: 2022-06-22 20:14:59
+post_date: 2024-08-04 20:14:59
 taxonomy:
     category:
         - adventures
