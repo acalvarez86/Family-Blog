@@ -3,7 +3,7 @@
 title: A Trip to Cancun, Mexico
 menu_order: 5
 post_status: publish
-post_excerpt: Our next vacation to Mexico.
+post_excerpt: We had always seen Cancun, Mexico in pictures and heard stories from friends and family. When the opportunity arose, we decided to explore it.
 post_date: 2024-08-04 20:14:59
 taxonomy:
     category:
@@ -30,7 +30,7 @@ taxonomy:
 ---
 
 Let’s start by clarifying that this post isn’t about finding the cheapest way to travel to Cancun or promoting any specific luxury resorts. Instead, we’re sharing our experience to help you plan your trip in the best possible way.
-We had always seen Cancun in pictures and heard stories from friends and family. Although we passed by once during our trip to migrate to the USA, it wasn’t a vacation. When the opportunity arose, we decided to explore Mexico and its rich culture. The Riviera Maya, with its stunning beaches and local cuisine, was an irresistible choice.
+We had always seen Cancun, Mexico in pictures and heard stories from friends and family. Although we passed by once during our trip to migrate to the USA, it wasn’t a vacation. When the opportunity arose, we decided to explore Mexico and its rich culture. The Riviera Maya, with its stunning beaches and local cuisine, was an irresistible choice.
 It was our first trip abroad for a vacation, chosen almost on a whim. During one of our regular Costco runs, we spotted travel packages that seemed good and reasonably priced. The toughest part was selecting a hotel. After much deliberation, we decided on an adults-only hotel. The idea of kids yelling, crying, or running around was out of the plate for this trip.
 
 ### Our Stay
