@@ -1,7 +1,7 @@
 ---
 
 title: Setting Up Our First Airbnb
-menu_order: 10
+menu_order: 11
 post_status: publish
 post_excerpt: The biggest thing on Airbnb is furnishing it and I think we did a wonderful job.
 post_date: 2024-07-25 20:14:59

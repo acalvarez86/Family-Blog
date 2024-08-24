@@ -1,0 +1,56 @@
+---
+
+title: A Trip to Salt Lake City, Utah
+menu_order: 5
+post_status: draft
+post_excerpt: We had always seen Cancun, Mexico in pictures and heard stories from friends and family. When the opportunity arose, we decided to explore it.
+post_date: 2024-08-04 20:14:59
+taxonomy:
+    category:
+        - adventures
+    post_tag:
+        - wealth
+        - travel
+        - trip
+        - adventures
+        - saltlakecity
+        - slc
+        - utah
+        - thisistheplace
+        - utahstatecapitol
+        - nhmu
+        - farmington
+        - shopstationpark
+        - utahcounty
+        - templesquare
+        - thechurchofjesuschris
+
+---
+
+Recently, Melba received exciting news from her boss: they would be hosting an on-site event in Salt Lake City, Utah. The opportunity to travel to a new city was enticing enough. The company covered some of the expenses, including the hotel and her plane ticket. It was an offer we couldn’t refuse. We were eager to explore a new place. As soon as we left the airport for the hotel, we were immediately struck by the stunning beauty of the area. A valley surrounded by majestic mountains.
+
+### Farmington, Utah
+
+Our hotel was located in Farmington, a charming area with a beautiful mall filled with shops and restaurants. After checking in, we took a leisurely walk through the mall, enjoying the variety of stores and picking up a few items. We grabbed a bite to eat and stopped by a nearby market to stock up on snacks for our room. We spent the rest of the day planning a tour of the city for the next day and went to bed early to rest. We were excited about what was to come.
+
+### Touring Salt Lake City
+
+The next morning, we set out to explore Salt Lake City, beginning with **Temple Square**, the city’s most iconic site. However, when we arrived, we found that the square was under construction, surrounded by cranes and scaffolding. Unfortunately, this limited our view, and we couldn’t see much of the famous landmarks, including the Salt Lake Temple. Despite the construction, we could still appreciate the significance of the area and the rich history it holds.
+
+Our next stop was the **Utah State Capitol**, perched on a hill with stunning views of the city and surrounding mountains. The Capitol’s impressive architecture, with its grand dome and stately columns, was a highlight of our tour. Inside, our guide provided fascinating insights into the state’s history and government.
+
+The guide also showed us several key areas of the city, including iconic parks and buildings that are important pieces of Salt Lake City’s history. We visited the **"This is the Place" Monument**, which honors the pioneers who founded the city, and enjoyed an amazing view from the nearby children’s hospital.
+
+Our last visit of the day was to the **Natural History Museum of Utah**. It was an incredible experience; we had never seen dinosaur fossils in person before, and the museum's extensive displays of history and science were truly impressive.
+
+As the day came to a close, we returned to Farmington, satisfied with our day’s adventures. Salt Lake City had surprised us with its blend of historical landmarks, natural beauty, and modern amenities. 
+
+### Park City, Utah
+
+For the remaining days, Arian stayed in the hotel working remotely while Melba participated in the on-site work event. One part of the event included a visit to **Park City**, where the 2002 Winter Olympic Games were held. It was a beautiful place, full of fun activities and rich in history.
+
+### Time to Leave
+
+Our trip to Salt Lake City and the surrounding areas was a fantastic experience. From the city’s historical and cultural sites to the natural beauty of the nearby parks, we found plenty to see and do. Whether you’re looking for a weekend getaway or a longer vacation, this part of Utah has something for everyone. We left with fond memories and a strong desire to return and explore even more of what this beautiful region has to offer.
+
+
