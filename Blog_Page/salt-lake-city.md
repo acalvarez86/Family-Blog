@@ -32,7 +32,7 @@ Recently, Melba received exciting news from her boss: they would be hosting an o
 
 ### Farmington, Utah
 
-Our hotel was located in Farmington, a charming area with a beautiful mall filled with shops and restaurants. After checking in, we took a leisurely walk through the mall, enjoying the variety of stores and picking up a few items. We grabbed a bite to eat and stopped by a nearby market to stock up on snacks for our room. We spent the rest of the day planning a tour of the city for the next day and went to bed early to rest. We were excited about what was to come.
+Our hotel was located in Farmington, a charming area with a beautiful mall filled with shops and restaurants. After checking in, we took a leisurely walk through the mall, enjoying the variety of stores and picking up a few items. It was really hard to pick from the several options, but we grabbed a bite to eat. Stopped by a nearby market to stock up on snacks for our room. And spent the rest of the day planning a tour of the city for the next day and went to bed early to rest. We were excited about what was to come.
 
 ### Touring Salt Lake City
 
