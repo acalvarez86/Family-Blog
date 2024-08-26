@@ -3,7 +3,8 @@
 title: A Trip to Salt Lake City, Utah
 menu_order: 5
 post_status: draft
-post_excerpt: We had always seen Cancun, Mexico in pictures and heard stories from friends and family. When the opportunity arose, we decided to explore it.
+post_excerpt:  The opportunity to travel to a new city was enticing enough. A trip to Salt Lake City, Utah, a valley surrounded by majestic mountains.
+
 post_date: 2024-08-04 20:14:59
 taxonomy:
     category:
