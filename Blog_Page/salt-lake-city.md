@@ -58,7 +58,7 @@ As the day came to a close, we returned to Farmington, satisfied with our day’
 
 For the remaining days, Arian stayed in the hotel working remotely while Melba participated in the on-site work event. One part of the event included a visit to **Park City**, where the 2002 Winter Olympic Games were held. It was a beautiful place, full of fun activities and rich in history.
 
-### Time to Leave
+### Time to Leave Salt Lake City
 
 Our trip to Salt Lake City and the surrounding areas was a fantastic experience. From the city’s historical and cultural sites to the natural beauty of the nearby parks, we found plenty to see and do. Whether you’re looking for a weekend getaway or a longer vacation, this part of Utah has something for everyone. We left with fond memories and a strong desire to return and explore even more of what this beautiful region has to offer.
 
