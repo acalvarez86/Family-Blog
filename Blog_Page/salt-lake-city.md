@@ -2,10 +2,10 @@
 
 title: A Trip to Salt Lake City, Utah
 menu_order: 5
-post_status: draft
+post_status: publish
 post_excerpt:  The opportunity to travel to a new city was enticing enough. A trip to Salt Lake City, Utah, a valley surrounded by majestic mountains.
 
-post_date: 2024-08-04 20:14:59
+post_date: 2024-08-28 20:14:59
 taxonomy:
     category:
         - adventures
