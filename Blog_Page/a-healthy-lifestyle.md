@@ -16,7 +16,6 @@ taxonomy:
 
 ---
 
-
 Have you ever asked yourself, "How can I live a healthy lifestyle?" Whether you're just beginning to explore the idea or have thought about it for some time; taking steps toward a healthier life can have profound impacts. Not just for you, but for those around you as well. Here are some key reasons and practical tips to get you started on your journey.
 
 ### Recognize the Need for Change
