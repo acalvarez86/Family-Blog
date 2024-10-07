@@ -3,7 +3,7 @@
 title: A Healthy Lifestyle
 menu_order: 13
 post_status: publish
-post_excerpt: How can I live a healthy lifestyle? ...taking steps toward a healthier life can have profound impacts. Not just for you, but for those around you as well.
+post_excerpt: ...taking steps toward a healthy lifestyle can have profound impacts. Not just for you, but for those around you as well.
 post_date: 2024-09-30 20:14:59
 taxonomy:
     category:
