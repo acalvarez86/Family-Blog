@@ -1,9 +1,9 @@
 ---
 
 title: A Healthy Lifestyle
-menu_order: 1
+menu_order: 13
 post_status: draft
-post_excerpt: "How can I live a healthy lifestyle?" ...taking steps toward a healthier life can have profound impacts
+post_excerpt: How can I live a healthy lifestyle? ...taking steps toward a healthier life can have profound impacts
 post_date: 2024-09-30 20:14:59
 taxonomy:
     category:
