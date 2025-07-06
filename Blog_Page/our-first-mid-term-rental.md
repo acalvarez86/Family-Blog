@@ -29,7 +29,7 @@ Mid Term Rentals are typically sought after by traveling professionals, such as 
 
 ### Listing Our Property
 
-The property we decided to list was the same we were using for Airbnb. For more details please check [this post](https://familyventurescafe.com/real-estate/our-first-airbnb/) To effectively tap into the Mid Term Rental market, we utilized [Furnished Finder](https://www.furnishedfinder.com/), a platform specifically designed for mid-length stays. 
+The property we decided to list was the same we were using for Airbnb. For more details please check [this post](https://familyventurescafe.com/real-estate/our-first-airbnb/) To effectively tap into the Mid Term Rental market, we utilized [Furnished Finder](https://www.furnishedfinder.com/), a platform specifically designed for mid-length stays.
 
 Listing the property is not complex. At this point, we had most of the essentials set up from my Airbnb listing. However, if you are starting from scratch, here are the steps to follow:
 
@@ -49,7 +49,7 @@ Last point is essential. If you do not have a cleaning team and/or you are think
 
 ### How we Calculate the Rate
 
-Setting the right rate for your Mid Term Rental is crucial. We started by researching what similar properties in your area are charging for mid-term stays. This included looking at other listings on Furnished Finder and similar platforms. You can also check [Furnished Finder’s rental statistics](https://www.furnishedfinder.com/stats) for valuable insights. Since our property is also listed on Airbnb, we calculated what a monthly stay would cost. Taking into account any discounts we might offer for longer stays. 
+Setting the right rate for your Mid Term Rental is crucial. We started by researching what similar properties in your area are charging for mid-term stays. This included looking at other listings on Furnished Finder and similar platforms. You can also check [Furnished Finder’s rental statistics](https://www.furnishedfinder.com/stats) for valuable insights. Since our property is also listed on Airbnb, we calculated what a monthly stay would cost. Taking into account any discounts we might offer for longer stays.
 
 You could also compare your calculated Airbnb rate with the market rates you researched. Ensure your rate is competitive but also fair, considering the added value of mid-term rental stability. For your first few tenants, you could consider offering a lower introductory rate. This helps attract initial interest and can lead to positive reviews, making future bookings easier. Periodically review your rates and update them based on occupancy, market trends, and tenant feedback. This ensures you remain competitive and profitable.
 
@@ -67,13 +67,6 @@ For us was as simply as to do the same we do with our long term rental. We just 
 
 5. **Regular Check-Ins:** Periodically check in with your tenant to ensure everything is going smoothly. Address any issues promptly to maintain a positive relationship.
 
-For further guidance, Furnished Finder offers excellent resources [here](https://www.furnishedfinder.com/Resources/PMResources) to help with common questions and best practices.
+For further guidance, Furnished Finder offers excellent resources in their [property management resources](https://www.furnishedfinder.com/Resources/PMResources) to help with common questions and best practices.
 
 By following these steps and leveraging Furnished Finder, we successfully transitioned our property into the Mid Term Rental market. This approach not only filled the gaps between short-term bookings but also attracted a stable stream of reliable tenants, enhancing our overall rental income. Have you tried a different strategy for Mid Term Rentals or have additional tips to share? We'd love to hear from you! Leave a comment below with your experiences or questions.
-
-
-
-
-
-
-

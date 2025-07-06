@@ -28,7 +28,7 @@ We were playing with the idea of listing one of our houses on Airbnb, to increas
 
 As we explained in the post [Georgetown Duplex](https://familyventurescafe.com/real-estate/georgetown-duplex), one side of our duplex was a long-term rental. One night around 11 PM our tenant texted that she was going back to her town and that her boyfriend (who was not on the lease) kicked her out and she left. All her belongings and the boyfriend were still on my property. What nice news to receive in the middle of the night. My reaction was to sleep it through and work on it the next day, with a colder mind.
 
-### How to Turn an Unfortunate Event into a Better One.
+### How to Turn an Unfortunate Event into a Better One
 
 The first thing I did was to research what people do in these cases. After I had a good idea of how to proceed, I went and highlighted all the steps I needed to follow. I learned about all the information and signatures I would need from her. She was cooperative and signed everything I sent. Then we just needed to take care of her boyfriend on our property. I personally just wanted to move on and get the property back on the market as soon as possible. I did not want to get involved in legal proceedings (this road may take too long and too many headaches). After having a conversation with her boyfriend, he agreed to leave after a week to have time to get all his stuff out of the house. There was a lot of information online on how to deal with this. Luckily after a week and after she signed several legal documents, I regained control of my property.
 
@@ -69,6 +69,5 @@ You can check our post [Georgetown Duplex](https://familyventurescafe.com/real-e
 **Mortgage + Taxes + Insurance = Monthly Cost:** $1866
 
 Therefore, technically we had a profit of $243 (since we did the cleaning for some time before we found our cleaners we made some extra bucks) while living for free on the other side of the duplex.
- 
-\* *All values are approximations and averages based on the 5 months sample*
 
+\* *All values are approximations and averages based on the 5 months sample*

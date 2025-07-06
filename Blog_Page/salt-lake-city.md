@@ -52,7 +52,7 @@ Our last visit of the day was to the **Natural History Museum of Utah**. It was 
 
 <img class="wp-image-370 alignright" src="https://familyventurescafe.com/wp-content/uploads/2024/09/utah-trip-3-300x200.webp" alt="utah trip nhmu" width="400" height="267" />
 
-As the day came to a close, we returned to Farmington, satisfied with our day’s adventures. Salt Lake City surprised us with its blend of historical landmarks, natural beauty, and modern amenities. 
+As the day came to a close, we returned to Farmington, satisfied with our day’s adventures. Salt Lake City surprised us with its blend of historical landmarks, natural beauty, and modern amenities.
 
 ### Park City, Utah
 
@@ -61,5 +61,3 @@ For the remaining days, Arian stayed in the hotel working remotely while Melba p
 ### Time to Leave Salt Lake City
 
 Our trip to Salt Lake City and the surrounding areas was a fantastic experience. From the city’s historical and cultural sites to the natural beauty of the nearby parks, we found plenty to see and do. Whether you’re looking for a weekend getaway or a longer vacation, this part of Utah has something for everyone. We left with fond memories and a strong desire to return and explore even more of what this beautiful region has to offer.
-
-

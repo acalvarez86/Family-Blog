@@ -41,7 +41,7 @@ This house holds a special place in our hearts as it was a huge milestone for tw
 
 P.S. The dream got even bigger after this, but that is another story….
 
-### For those who like numbers:
+### For those who like numbers
 
 3 bed + studio – 2 bath – 1642 sqft
 **Purchase date:** August 25, 2018

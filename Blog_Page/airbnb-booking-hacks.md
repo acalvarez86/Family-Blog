@@ -39,7 +39,7 @@ Extended stays inherently come with financial benefits for you and the host. As 
 
 ### Book New Listings
 
-Booking new listings on Airbnb can be highly advantageous for guests seeking competitive rates. Hosts of new listings often offer introductory discounts to attract their initial guests and garner reviews. You can easily spot new listings by searching for a 'New' logo within the search results on Airbnb. We touched this topic in [Our First Airbnb](https://familyventurescafe.com/real-estate/our-first-house/). 
+Booking new listings on Airbnb can be highly advantageous for guests seeking competitive rates. Hosts of new listings often offer introductory discounts to attract their initial guests and garner reviews. You can easily spot new listings by searching for a 'New' logo within the search results on Airbnb. We touched this topic in [Our First Airbnb](https://familyventurescafe.com/real-estate/our-first-house/).
 
 ### Using Coupons
 

@@ -40,9 +40,10 @@ The winner was the Marriott Cancun, located next to the JW Marriott. You can use
 Reflecting on our experience, we might have saved money with a cheaper hotel. We mainly used it as a base for our activities. We often returned to the hotel past 9 PM, so paying extra for luxury amenities didn’t feel worth it. If you get an all-inclusive package for the drinks, consider buying your favorite beverages at a local market. We did this and ended up gifting the wine to the hotel staff. Guess what? You are correct! We didn't have time to drink. We got to the hotel exhausted every time, we just took a shower and slept to be ready for the next adventure.
 
 ### Our Arrival
+
 <img class="alignright wp-image-348" src="https://familyventurescafe.com/wp-content/uploads/2024/08/hotel_beach_cancun-300x200.webp" alt="" width="400" height="267" />
 
-The Costco package covered everything: hotel, flights, and airport transfers, but not the excursions. We decided to travel with carry-on luggage only to avoid delays at customs and speed up our exit. Upon arrival, the airport was bustling with people selling various services and products, which was overwhelming. I bet most locals at the airport may know whatever language you speak, but luckily, knowing Spanish helped us navigate through the chaos. The instructions were good enough, but we still asked for directions. We aren't used to this, but we think we are good at ignoring all this noise without being rude. Regardless, the person we asked for directions told us to talk to this charming lady who was on a boot. 
+The Costco package covered everything: hotel, flights, and airport transfers, but not the excursions. We decided to travel with carry-on luggage only to avoid delays at customs and speed up our exit. Upon arrival, the airport was bustling with people selling various services and products, which was overwhelming. I bet most locals at the airport may know whatever language you speak, but luckily, knowing Spanish helped us navigate through the chaos. The instructions were good enough, but we still asked for directions. We aren't used to this, but we think we are good at ignoring all this noise without being rude. Regardless, the person we asked for directions told us to talk to this charming lady who was on a boot.
 
 She was super nice and easy to talk to, she was selling timeshares. Quickly, she got the hint we were not interested, we just wanted to get out to the hotel as soon as possible. Therefore, she kindly explained to us where we should head to get our transportation. In addition, she mentioned that if we have some time to spare the next morning she will take us to this newly built hotel. We would get free breakfast and half off the excursion package if we do this. My wife quickly asked what the catch was, and she confirmed they would try to sell us the timeshare. We say yes to her, and move along. After we left her boot no one else approached us as they may have thought they got us. In part, they did.
 Since it was a shared ride (free), we had to wait a bit for all the people. But finally, we made it to the hotel late afternoon. Had some time to check in, take a shower, and find somewhere to have dinner. The hotel had this great Polynesian-style restaurant that performed some characteristic dances, and we enjoyed it.
@@ -87,6 +88,7 @@ Similar to our trip to Xcaret, this tour started early in the morning. The journ
 This tour included visits to Chichen Itza, the Xcajum Cenote, and the Colombian-inspired city of Valladolid in Mexico. Unfortunately for us, our itinerary had us visiting the cenote first. Ideally, it’s better to visit the cenote after Chichen Itza so you can refresh in the cold and fresh waters following the intense heat of the archaeological site.
 
 #### Cenote Xcajum
+
 <img class="alignleft wp-image-351" src="https://familyventurescafe.com/wp-content/uploads/2024/08/xcajum-cenote-cancun-300x200.webp" alt="xcajum cancun mexico" width="400" height="267" />
 
 What an interesting place! It seemed like an oasis in the middle of nowhere. Everything was well-organized, and it was evident that the locals managed it without the impersonal feel of big corporations. Speaking the language allowed us to converse with the staff, who shared their experiences and the challenges they faced during the two years without tourism. It was heartening to see how grateful they were for the return of international travelers, as the area relies heavily on tourism. The staff were the kindest hosts you could meet, always ready with a smile and eager to share their culture.
@@ -110,6 +112,7 @@ The intricate carvings, the sheer scale of the pyramid, and the knowledge of the
 Leaving Chichen Itza was bittersweet. While our time there was limited, the experience was deeply enriching, leaving an indelible mark on our hearts and minds. The visit was a reminder of the incredible achievements of human history and the enduring legacy of the ancient world.
 
 #### Valladolid
+
 It was time to leave, and our next stop was the magical town of Valladolid. This charming place felt like a piece of Colombia in the heart of Yucatan, reminiscent of the enchanting scenes from "The Encanto" movie. Although it was a quick stop for some sightseeing, we made the most of our time there.
 <img class="alignleft wp-image-353" src="https://familyventurescafe.com/wp-content/uploads/2024/08/valladolid_cancun_mexico-300x200.webp" alt="" width="400" height="267" />
 
@@ -126,7 +129,7 @@ As the day came to an end, it was time to head back to the hotel. The two-hour j
 The day before going back, we did not plan anything, other than the couple's massage, as we wanted to rest and enjoy the Hotel before leaving. In the end, we decided to do something anyway. Friends we met on the Isla Mujeres trip told us to consider [Xochimilco](https://www.xcaret.com/en/parks-and-tours/about-xoximilco/). "Why not?" we said, and made reservations for the night. We had lunch by the pool, enjoyed our day by the beach, and visited the Marriott Hotel beside us. The time came to get ready for Xochimilco.
 <img class="wp-image-354 alignright" src="https://familyventurescafe.com/wp-content/uploads/2024/08/xochimilco-cancun-300x200.webp" alt="xochimilco cancun mexico" width="400" height="267" />
 
-We boarded the shuttle that would take us to Xochimilco. Upon arrival, the atmosphere was electric. Mariachi music filled the air, and the sight of the brightly colored trajineras, a traditional Mexican boat, was mesmerizing. The landscape at night is magical. You have to walk over some hanging bridges that provide an amazing view of the light spectacle. We boarded our trajinera, joining a group of fellow travelers. By chance, all the travelers were Latinos like us, so we spoke Spanish the whole time. The boat slowly glided through the canals, surrounded by twinkling lights. Our guide, a cheerful local, explained to us stories about Xochimilco's history and culture. He also made sure we all felt welcomed and entertained. 
+We boarded the shuttle that would take us to Xochimilco. Upon arrival, the atmosphere was electric. Mariachi music filled the air, and the sight of the brightly colored trajineras, a traditional Mexican boat, was mesmerizing. The landscape at night is magical. You have to walk over some hanging bridges that provide an amazing view of the light spectacle. We boarded our trajinera, joining a group of fellow travelers. By chance, all the travelers were Latinos like us, so we spoke Spanish the whole time. The boat slowly glided through the canals, surrounded by twinkling lights. Our guide, a cheerful local, explained to us stories about Xochimilco's history and culture. He also made sure we all felt welcomed and entertained.
 
 The trajinera had a cooler in the middle with several refreshing alcoholic and non-alcoholic drinks and lots of tequila. The first course was a set of several authentic appetizers from the area, including the chapulines. Is kind of a grasshopper they serve seasoned and fried. After a while, we stopped and there was a band playing classic Mariachi music that we loved. There a courteous and friendly staff removed our plates from the appetizers and brought our entrées, more drinks, and tequila. Each bite was a delight, and the flavors were rich and authentic. The drinks flowed freely, and we toasted to new friends and unforgettable experiences.
 
@@ -137,17 +140,3 @@ The highlight of the evening was when our trajinera joined others in a grand flo
 As the night drew to a close, we reluctantly made our way back to the hotel, our hearts full and our spirits high. Xochimilco had been more than just an outing; it was an experience that captured the essence of Mexican culture and left us with memories to cherish forever.
 
 The next morning, as we packed our bags and prepared to leave, we couldn't stop talking about the incredible night we had. Xochimilco was the perfect ending to our trip, a vibrant and joyous celebration that would forever hold a special place in our hearts.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
